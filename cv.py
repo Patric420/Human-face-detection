@@ -3,7 +3,7 @@ import cvzone
 from ultralytics import YOLO
 
 # Path to the video file
-video_path = r'C:\Users\Akshay\Downloads\8774702-hd_1920_1080_30fps.mp4'
+video_path = r'enter video path here'
 
 # Initialize video capture
 cap = cv2.VideoCapture(video_path)
